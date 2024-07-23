@@ -35,7 +35,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) API built using Nod
 
 ### 1. Clone the repository
 ```github
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Bouwatech1994/mongodb-crud.git
 
 ```
 ### 2. Install dependencies
